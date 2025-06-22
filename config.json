@@ -1,0 +1,9 @@
+{
+  "servidor": {
+    "puerto": 3000,
+    "entorno": "desarrollo"
+  },
+  "limites": {
+    "tamano_maximo_descarga_mb": 50
+  }
+}
